@@ -155,7 +155,3 @@ Set up [monitoring](kubernetes/monitoring/README.md) for Tier 3
 1. Rebase your local changes against the
    [master](https://github.com/lodotek/k8s-3tier-webapp/tree/master) branch
 1. Create new Pull Request
-
-
-
-TEST
