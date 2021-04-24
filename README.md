@@ -32,9 +32,8 @@
 
 ---
 
-Sample web application based on k8s. Focus on connecting components, setting k8s
-resources, and aiming to microservices. The k8s-3tier-webapp service is for PoC,
-not production ready.
+This is a sample web application based on k8s with a focuse on connecting components, setting up k8s
+resources, and deploying microservices. This is for PoC only and not for use in a production environment.
 
 ---
 
@@ -48,20 +47,19 @@ not production ready.
 
 ## Concepts
 
-- Choice better architecture what you expect based on k8s
-- Help understanding k8s resources based on yaml
-- Test automation on Github Actions for free
-- Expand test automation - unit, end-to-end, performance, recovery, security
-- Keep observability for monitoring services
-- Improve application quality using public CI services that following Github
+- k8s resources defined with yaml manifests
+- Test automation utilizing Github Actions
+- Automated unit, end-to-end, performance, recovery, & security tests
+- Provide monitoring services for observability
+- Improve application quality using public CI services
 
 ## Features
 
 - All docker components run on k8s
-- All application written by Java mostly Quarkus
-- k8s resources written by yaml, try not to use helm, operator
-- Use only public software, not commercial
-- Use Github Actions for build, test, release
+- Utilizes Quarkus, a full-stack, Kubernetes-native, Java App Framework tailored for OpenJDK & GraalVM to ensure a small memory footprint and reduced boot time. 
+- k8s resources defined in yaml manifests
+- Utilizes only public, non commercial software
+- Utilizes Github Actions for build, test, release
 
 ## Requirements
 
