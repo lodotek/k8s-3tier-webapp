@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: jaxrs-memcached-quarkus
-          image: yurak/jaxrs-memcached-quarkus:latest
+          image: lodotek/jaxrs-memcached-quarkus:latest
           imagePullPolicy: Always
           livenessProbe:
             httpGet:

@@ -57,9 +57,9 @@
     }
   ],
   "assignees": [
-    "yurake"
+    "lodotek"
   ],
-  "timezone": "Asia/Tokyo",
+  "timezone": "America/Denver",
   "labels": [
     "renovate"
   ]

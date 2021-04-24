@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: jaxrs-kafka-quarkus
-          image: yurak/jaxrs-kafka-quarkus:latest
+          image: lodotek/jaxrs-kafka-quarkus:latest
           imagePullPolicy: Always
           livenessProbe:
             httpGet:

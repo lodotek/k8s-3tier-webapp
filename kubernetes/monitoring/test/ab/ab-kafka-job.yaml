@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
         - name: ab-kafka
-          image: yurak/ab:latest
+          image: lodotek/ab:latest
           command: ["/bin/sh", "-c"]
           args:
             [

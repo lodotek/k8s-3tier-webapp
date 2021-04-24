@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: postgres
-          image: yurak/postgres:latest
+          image: lodotek/postgres:latest
           imagePullPolicy: Always
           ports:
             - name: postgres

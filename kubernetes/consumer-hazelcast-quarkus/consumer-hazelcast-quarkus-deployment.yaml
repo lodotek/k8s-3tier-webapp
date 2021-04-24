@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: consumer-hazelcast-quarkus
-          image: yurak/consumer-hazelcast-quarkus:latest
+          image: lodotek/consumer-hazelcast-quarkus:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 8080

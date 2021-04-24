@@ -3,7 +3,7 @@ name: Bug template log only
 about: Describe something issue
 title: ''
 labels: bug
-assignees: yurake
+assignees: lodotek
 
 ---
 

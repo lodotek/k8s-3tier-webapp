@@ -14,7 +14,7 @@ ENV PYTHON3_VERSION="3.9.4-r0"
 ENV GUNPLOT_VERSION="5.4.1-r0"
 
 LABEL org.label-schema.build-date=$BUILD_DATE org.label-schema.vcs-ref=$VCS_REF \
-    org.label-schema.vcs-url="https://github.com/yurake/k8s-3tier-webapp"
+    org.label-schema.vcs-url="https://github.com/lodotek/k8s-3tier-webapp"
 USER root
 
 # update apk repositories
@@ -34,9 +34,9 @@ COPY init/executors.groovy /usr/share/jenkins/ref/init.groovy.d/executors.groovy
 # change timezone
 RUN apk update && \
     apk --no-cache add tzdata=${TZDATA_VERSION} && \
-    cp /usr/share/zoneinfo/Asia/Tokyo /etc/localtime && \
+    cp /usr/share/zoneinfo/America/Denver /etc/localtime && \
     apk del tzdata
-ENV JAVA_OPTS -Duser.timezone=Asia/Tokyo
+ENV JAVA_OPTS -Duser.timezone=America/Denver
 
 # Install default plugins
 COPY init/plugins.txt /usr/share/jenkins/ref/plugins.txt

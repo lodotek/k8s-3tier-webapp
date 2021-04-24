@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: yurak/nginx:latest
+          image: lodotek/nginx:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 80

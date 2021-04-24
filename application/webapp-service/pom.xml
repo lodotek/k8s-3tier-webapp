@@ -15,7 +15,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub OWNER Apache Maven Packages</name>
-			<url>https://maven.pkg.github.com/yurake/k8s-3tier-webapp</url>
+			<url>https://maven.pkg.github.com/lodotek/k8s-3tier-webapp</url>
 		</repository>
 	</distributionManagement>
 	<dependencies>

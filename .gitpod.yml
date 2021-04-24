@@ -4,4 +4,4 @@ ports:
   onOpen: open-preview
 # start up tasks
 tasks:
-  - command: export TZ="Asia/Tokyo"
+  - command: export TZ="America/Denver"

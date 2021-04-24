@@ -2,57 +2,57 @@
 
 ## Nginx
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/nginx.svg)](https://hub.docker.com/r/yurak/nginx)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/nginx.svg)](https://microbadger.com/images/yurak/nginx)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/nginx.svg)](https://microbadger.com/images/yurak/nginx)  
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/nginx.svg)](https://hub.docker.com/r/lodotek/nginx)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/nginx.svg)](https://microbadger.com/images/lodotek/nginx)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/nginx.svg)](https://microbadger.com/images/lodotek/nginx)  
 ![Sequence Diagram](../docs/uml/nginx.png)
 
 ## mysql
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/mysql.svg)](https://hub.docker.com/r/yurak/mysql)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/mysql.svg)](https://microbadger.com/images/yurak/mysql)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/mysql.svg)](https://microbadger.com/images/yurak/mysql)
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/mysql.svg)](https://hub.docker.com/r/lodotek/mysql)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/mysql.svg)](https://microbadger.com/images/lodotek/mysql)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/mysql.svg)](https://microbadger.com/images/lodotek/mysql)
 
 ## postgres
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/postgres.svg)](https://hub.docker.com/r/yurak/postgres)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/postgres.svg)](https://microbadger.com/images/yurak/postgres)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/postgres.svg)](https://microbadger.com/images/yurak/postgres)
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/postgres.svg)](https://hub.docker.com/r/lodotek/postgres)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/postgres.svg)](https://microbadger.com/images/lodotek/postgres)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/postgres.svg)](https://microbadger.com/images/lodotek/postgres)
 
 ## mongodb
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/rabbitmq.svg)](https://hub.docker.com/r/yurak/mongodb)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/mongodb.svg)](https://microbadger.com/images/yurak/mongodb)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/mongodb.svg)](https://microbadger.com/images/yurak/mongodb)
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/rabbitmq.svg)](https://hub.docker.com/r/lodotek/mongodb)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/mongodb.svg)](https://microbadger.com/images/lodotek/mongodb)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/mongodb.svg)](https://microbadger.com/images/lodotek/mongodb)
 
 ## cassandra
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/rabbitmq.svg)](https://hub.docker.com/r/yurak/cassandra)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/cassandra.svg)](https://microbadger.com/images/yurak/cassandra)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/cassandra.svg)](https://microbadger.com/images/yurak/cassandra)
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/rabbitmq.svg)](https://hub.docker.com/r/lodotek/cassandra)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/cassandra.svg)](https://microbadger.com/images/lodotek/cassandra)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/cassandra.svg)](https://microbadger.com/images/lodotek/cassandra)
 
 ## rabbitmq
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/rabbitmq.svg)](https://hub.docker.com/r/yurak/rabbitmq)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/rabbitmq.svg)](https://microbadger.com/images/yurak/rabbitmq)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/rabbitmq.svg)](https://microbadger.com/images/yurak/rabbitmq)
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/rabbitmq.svg)](https://hub.docker.com/r/lodotek/rabbitmq)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/rabbitmq.svg)](https://microbadger.com/images/lodotek/rabbitmq)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/rabbitmq.svg)](https://microbadger.com/images/lodotek/rabbitmq)
 
 ## jenkins
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/jenkins.svg)](https://hub.docker.com/r/yurak/jenkins)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/jenkins.svg)](https://microbadger.com/images/yurak/jenkins)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/jenkins.svg)](https://microbadger.com/images/yurak/jenkins)
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/jenkins.svg)](https://hub.docker.com/r/lodotek/jenkins)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/jenkins.svg)](https://microbadger.com/images/lodotek/jenkins)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/jenkins.svg)](https://microbadger.com/images/lodotek/jenkins)
 
 ## ab - Apache Bench
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/ab.svg)](https://hub.docker.com/r/yurak/ab)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/ab.svg)](https://microbadger.com/images/yurak/ab)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/ab.svg)](https://microbadger.com/images/yurak/ab)  
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/ab.svg)](https://hub.docker.com/r/lodotek/ab)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/ab.svg)](https://microbadger.com/images/lodotek/ab)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/ab.svg)](https://microbadger.com/images/lodotek/ab)  
 ![Sequence Diagram](../docs/uml/ab.png)
 
 ## postmannewman
 
-[![DockerHub](https://img.shields.io/docker/pulls/yurak/postmannewman.svg)](https://hub.docker.com/r/yurak/postmannewman)
-[![Image Info](https://images.microbadger.com/badges/image/yurak/postmannewman.svg)](https://microbadger.com/images/yurak/postmannewman)
-[![Image Version](https://images.microbadger.com/badges/version/yurak/postmannewman.svg)](https://microbadger.com/images/yurak/postmannewman)  
+[![DockerHub](https://img.shields.io/docker/pulls/lodotek/postmannewman.svg)](https://hub.docker.com/r/lodotek/postmannewman)
+[![Image Info](https://images.microbadger.com/badges/image/lodotek/postmannewman.svg)](https://microbadger.com/images/lodotek/postmannewman)
+[![Image Version](https://images.microbadger.com/badges/version/lodotek/postmannewman.svg)](https://microbadger.com/images/lodotek/postmannewman)  
 ![Sequence Diagram](../docs/uml/postmannewman.png)

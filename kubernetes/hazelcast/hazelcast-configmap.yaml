@@ -6,7 +6,7 @@ metadata:
     app: hazelcast
 data:
   prometheus-port: "8080"
-  java-ops: "-Dhazelcast.config=/data/hazelcast/hazelcast.yaml -Duser.timezone=Asia/Tokyo"
+  java-ops: "-Dhazelcast.config=/data/hazelcast/hazelcast.yaml -Duser.timezone=America/Denver"
   logging-level: "WARNING"
   hazelcast.yaml: |-
     hazelcast:

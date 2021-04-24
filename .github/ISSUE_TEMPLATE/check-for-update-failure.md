@@ -2,7 +2,7 @@
 name: Github Action Check of Update failure
 about: Github Action Check of Update failure for Github Actions
 title: Github Action Check of Update failure
-assignees: yurake
+assignees: lodotek
 labels: ci failure
 
 ---

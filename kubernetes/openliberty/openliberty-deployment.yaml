@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: openliberty
-          image: yurak/openliberty:latest
+          image: lodotek/openliberty:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 9080

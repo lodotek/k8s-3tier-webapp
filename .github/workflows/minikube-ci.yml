@@ -156,7 +156,7 @@ jobs:
           labels: ci failure
           body: |
             Please see failure log:
-            https://github.com/yurake/k8s-3tier-webapp/actions/runs/${{ github.run_id }}
+            https://github.com/lodotek/k8s-3tier-webapp/actions/runs/${{ github.run_id }}
       - name: Create or Update Project Card
         uses: peter-evans/create-or-update-project-card@v1
         if: failure()
@@ -173,4 +173,4 @@ jobs:
             Add new issue:
             #${{ steps.create-issue-minikube-ci.outputs.number }}
             Please see failure log:
-            https://github.com/yurake/k8s-3tier-webapp/actions/runs/${{ github.run_id }}
+            https://github.com/lodotek/k8s-3tier-webapp/actions/runs/${{ github.run_id }}

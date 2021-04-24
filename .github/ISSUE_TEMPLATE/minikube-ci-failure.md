@@ -2,7 +2,7 @@
 name: Github Action CI Minikube failure
 about: Github Action CI Minikube failure for Github Actions
 title: Github Action CI Minikube failure
-assignees: yurake
+assignees: lodotek
 labels: ci failure
 
 ---

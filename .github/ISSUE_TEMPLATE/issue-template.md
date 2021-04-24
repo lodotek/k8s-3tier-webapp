@@ -3,7 +3,7 @@ name: Issue template
 about: Describe something issue
 title: ''
 labels: ''
-assignees: yurake
+assignees: lodotek
 
 ---
 
