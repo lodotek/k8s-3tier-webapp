@@ -1001,8 +1001,8 @@ jobs:
   #         -Dsonar.organization=lodotek
   #         -Dsonar.host.url=https://sonarcloud.io/
   #     - name: Perform CodeQL Analysis
-        uses: github/codeql-action/analyze@v1
-        continue-on-error: true
+  #       uses: github/codeql-action/analyze@v1
+  #       continue-on-error: true
 
   consumer-rabbitmq-quarkus:
     needs: [init-build, jaxrs-rabbitmq-quarkus]
