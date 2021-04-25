@@ -2,7 +2,6 @@
 
 [![Java CI](https://github.com/lodotek/k8s-3tier-webapp/workflows/Java%20CI/badge.svg)](https://github.com/lodotek/k8s-3tier-webapp/actions?query=workflow%3A%22Java+CI%22)
 [![Docker Image CI](https://github.com/lodotek/k8s-3tier-webapp/workflows/Docker%20Image%20CI/badge.svg)](https://github.com/lodotek/k8s-3tier-webapp/actions?query=workflow%3A%22Docker+Image+CI%22)
-[![Docker Vulnerability Scan](https://github.com/lodotek/k8s-3tier-webapp/workflows/Docker%20Vulnerability%20Scan/badge.svg)](https://github.com/lodotek/k8s-3tier-webapp/actions?query=workflow%3A%22Docker+Vulnerability+Scan%22)
 [![Yaml Validator](https://github.com/lodotek/k8s-3tier-webapp/actions/workflows/yaml-validator.yml/badge.svg)](https://github.com/lodotek/k8s-3tier-webapp/actions/workflows/yaml-validator.yml)
 [![Minikube CI](https://github.com/lodotek/k8s-3tier-webapp/workflows/Minikube%20CI/badge.svg)](https://github.com/lodotek/k8s-3tier-webapp/actions?query=workflow%3A%22Minikube+CI%22)
 [![Minikube Stress CI](https://github.com/lodotek/k8s-3tier-webapp/workflows/Minikube%20Stress%20CI/badge.svg)](https://github.com/lodotek/k8s-3tier-webapp/actions?query=workflow%3A%22Minikube+Stress+CI%22)
